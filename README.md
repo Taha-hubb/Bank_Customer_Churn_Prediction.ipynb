@@ -1,6 +1,7 @@
 Dataset
 
-The project uses the Bank Customer Churn dataset from Kaggle under the name Banking_Churn.
+The project uses the Bank Customer Churn dataset from Kaggle.
+https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
 
 The dataset contains 10,000 customer observations and includes variables such as:
 
@@ -43,19 +44,7 @@ jupyter
 
 Installation
 
-1. Download or extract the project folder
-
-Extract the submitted ZIP archive to a local directory.
-
-2. Open a terminal or command prompt
-
-Navigate to the project directory:
-
-cd Bank-Customer-Churn-Prediction
-
-
 3. Install the required packages
-
 
 Install the main packages manually:
 
@@ -66,7 +55,7 @@ Running the Project
 
 Open:
 
-Bank_Customer_Churn_Prediction.ipynb
+01_Data_Understanding.ipynb
 
 Run the notebook cells sequentially from top to bottom.
 
